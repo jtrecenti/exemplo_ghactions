@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1648595775000,
+    "generated": 1648596363000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.geojson",
     "title": "USGS Magnitude 2.5+ Earthquakes, Past Day",
     "status": 200,
@@ -1615,7 +1615,7 @@
         "mag": 2.9,
         "place": "38 km SW of Nanwalek, Alaska",
         "time": 1648527016191,
-        "updated": 1648527699621,
+        "updated": 1648596066040,
         "tz": null,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02241lqg7n",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02241lqg7n.geojson",
@@ -1628,8 +1628,8 @@
         "sig": 129,
         "net": "ak",
         "code": "02241lqg7n",
-        "ids": ",ak02241lqg7n,",
-        "sources": ",ak,",
+        "ids": ",us7000gy0j,ak02241lqg7n,",
+        "sources": ",us,ak,",
         "types": ",origin,phase-data,",
         "nst": null,
         "dmin": null,
